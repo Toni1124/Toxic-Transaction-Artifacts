@@ -6,6 +6,7 @@ This repository contain the artifacts for the paper: *Demystifying Harmful Conte
 Specifically, this repository includes **harmful content classification criteria**.
 
 - [`./criteria/readme.md`](criteria/readme.md): The detailed criteria for harmful content classification and example cases.
+- [`./prompt/prompt.png`](./prompt/prompt.png): Prompt templates for semantically meaningful content extraction.
 
 
 ## Introduction & Findings
